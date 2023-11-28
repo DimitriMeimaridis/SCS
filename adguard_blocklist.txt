@@ -8,6 +8,7 @@
 ||tumblr.com*
 ||charoulette.com*
 ||roblox.com*
+||tiktok.com*
 ||twitter.com*
 ||snapchat.com*
 ||whatsapp.com*
@@ -25,4 +26,8 @@
 ||meetme.com*
 ||badoo.com*
 ||skout.com*
+||deviantArt.com*
+||toomics.com*
+||whisper.sh*
+
 
