@@ -5,3 +5,4 @@
 !
 @@||youtube.com*^$document
 @@||*goguardian.com*^$document
+@@||ws-goguardian.pusher.com*^$document
