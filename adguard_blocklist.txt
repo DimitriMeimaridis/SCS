@@ -89,7 +89,7 @@
 ||hole-io.com
 ||slither.io
 ||sites.google.com/view/freeonlineiogames
-||iogames.space/
-||gameforge.com/en-US/littlegames/io-games
+||iogames.space
+||gameforge.com
 ||mergeworld.com
 ||addictinggames.com
