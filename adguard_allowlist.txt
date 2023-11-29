@@ -4,3 +4,4 @@
 !
 !
 @@||youtube.com*^$document
+@@||goguardian.com*^$document
