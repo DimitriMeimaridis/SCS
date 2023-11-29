@@ -5,4 +5,12 @@
 !
 @@||youtube.com*^$document
 @@||goguardian.com*^$document
+@@||*.goguardian.com*^$document
 @@||ws-goguardian.pusher.com*^$document
+!ip.goguardian.com
+!countvoncount.goguardian.com
+!panther.goguardian.com
+!quiddity.goguardian.com
+!inquisition.goguardian.com
+!x3-policy-maker.goguardian.com
+!snat.goguardian.com
