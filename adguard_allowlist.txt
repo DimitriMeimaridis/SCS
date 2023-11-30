@@ -3,14 +3,19 @@
 !
 !
 !
-@@||youtube.com*^$document
+! GoGuardian
 @@||goguardian.com*^$document
+@@||*goguardian.com*^$document
 @@||*.goguardian.com*^$document
 @@||ws-goguardian.pusher.com*^$document
-!ip.goguardian.com
-!countvoncount.goguardian.com
-!panther.goguardian.com
-!quiddity.goguardian.com
-!inquisition.goguardian.com
-!x3-policy-maker.goguardian.com
-!snat.goguardian.com
+@@||ip.goguardian.com*^$document
+@@||countvoncount.goguardian.com*^$document
+@@||panther.goguardian.com*^$document
+@@||quiddity.goguardian.com*^$document
+@@||inquisition.goguardian.com*^$document
+@@||x3-policy-maker.goguardian.com*^$document
+@@||snat.goguardian.com*^$document
+!
+!
+!
+@@||youtube.com*^$document
