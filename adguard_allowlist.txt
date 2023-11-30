@@ -5,16 +5,16 @@
 !
 ! GoGuardian
 @@||goguardian.com^$important
-@@||*goguardian.com^$important
-@@||*.goguardian.com^$important
+!@@||*goguardian.com^$important
+!@@||*.goguardian.com^$important
 @@||ws-goguardian.pusher.com^$important
-@@||ip.goguardian.com^$important
-@@||countvoncount.goguardian.com^$important
-@@||panther.goguardian.com^$important
-@@||quiddity.goguardian.com^$important
-@@||inquisition.goguardian.com^$important
-@@||x3-policy-maker.goguardian.com^$important
-@@||snat.goguardian.com^$important
+!@@||ip.goguardian.com^$important
+!@@||countvoncount.goguardian.com^$important
+!@@||panther.goguardian.com^$important
+!@@||quiddity.goguardian.com^$important
+!@@||inquisition.goguardian.com^$important
+!@@||x3-policy-maker.goguardian.com^$important
+!@@||snat.goguardian.com^$important
 !
 !
 !
