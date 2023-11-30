@@ -18,4 +18,4 @@
 !
 !
 !
-@@||youtube.com*^$important
+@@||youtube.com^$important
